@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi
+
+I'm Nikhil Dixit, a Product Leader with more than 11 years of experience spanning Edtech, Government, and Manufacturing - turning messy, multi-stakeholder problems into 0-to-1 products and operating models. Most recently, I've led product strategy and execution for ML and Agentic AI vertical, working closely with engineering, design, marketing, and support to ship features that now drive 30% of company revenue, with a 15% lift in adoption along the way.
+
+How I work: I talk to users and subject matter experts directly rather than through a research layer. I have conducted 80+ interviews in my role at upGrad, and around 50 in my rolw with Government of India. I'm also deliberate about cost early: when a build starts trending expensive, I'd rather optimize the approach up front than cut features later to fit the budget.
+
+I am also working on building few cool ideas. Do check out my public repositories for more. 
 
 <!--
 **nikhilndixit/nikhilndixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
