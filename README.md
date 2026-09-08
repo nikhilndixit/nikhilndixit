@@ -1,4 +1,4 @@
-## Hi
+## Hey there 👋
 
 I'm Nikhil Dixit, a Product Leader with more than 11 years of experience spanning Edtech, Government, and Manufacturing - turning messy, multi-stakeholder problems into 0-to-1 products and operating models. Most recently, I've led product strategy and execution for ML and Agentic AI vertical, working closely with engineering, design, marketing, and support to ship features that now drive 30% of company revenue, with a 15% lift in adoption along the way.
 
